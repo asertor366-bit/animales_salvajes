@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1794843860633</value>
+    <value>1795382268771</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -296,9 +296,9 @@
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-mvr14d8b-t2476z9sp</odePageId>
-      <odeBlockId>block-mvz0uf6w-4druu6gaq</odeBlockId>
+      <odeBlockId>block-mwrksu6u-fnp75x7dt</odeBlockId>
       <blockName>VEO, PIENSO, ME PREGUNTO</blockName>
-      <iconName>reflection</iconName>
+      <iconName>mi-siren_question</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -325,85 +325,25 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-mvr14d8b-t2476z9sp</odePageId>
-          <odeBlockId>block-mvz0uf6w-4druu6gaq</odeBlockId>
-          <odeIdeviceId>idevice-1793609598055-oprlfzle1</odeIdeviceId>
-          <odeIdeviceTypeName>three-sixty-viewer</odeIdeviceTypeName>
-          <htmlView><![CDATA[<!-- 360° panorama viewer iDevice template start -->
-<div class="exe-three-sixty-viewer-template">
-  <!-- Idevice content start -->
-  <div class="three-sixty-viewer-wrapper" role="region" aria-label="360° panorama"></div>
-  <!-- Idevice content end -->
-</div>
-<!-- 360° panorama viewer iDevice template end -->
-]]></htmlView>
-          <jsonProperties><![CDATA[{"version":2,"ideviceId":"idevice-1793609598055-oprlfzle1","startSceneId":"scene-1","scenes":[{"id":"scene-1","title":"","src":"{{context_path}}/content/resources/Panorama inmersivo_ ecosistema y deforestación.png","alt":"","description":"HOAL","projection":"equirectangular","initialView":{"yaw":0,"pitch":0,"fov":75},"hotspots":[]}],"behaviour":{"autorotate":{"enabled":false,"speed":1},"zoomEnabled":true,"fullscreenEnabled":true,"showNavControls":true,"renderQuality":"high","showLabels":true,"labelPosition":"right","imageAdjustments":{"brightness":1,"contrast":1,"saturation":1}}}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mvr14d8b-t2476z9sp</odePageId>
-      <odeBlockId>block-mvz135du-13gt357ds</odeBlockId>
-      <blockName>COMPARTIMOS</blockName>
-      <iconName>draw</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mvr14d8b-t2476z9sp</odePageId>
-          <odeBlockId>block-mvz135du-13gt357ds</odeBlockId>
-          <odeIdeviceId>idevice-1793610005247-a3fiku5se</odeIdeviceId>
+          <odeBlockId>block-mwrksu6u-fnp75x7dt</odeBlockId>
+          <odeIdeviceId>idevice-1795336169429-uko6467x6</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><strong>1. VEO: ¿QUÉ ESTÁ PASANDO?</strong></p>
+    <p><strong>  <img src="{{context_path}}/content/resources/mceclip0.png" /></strong></p>
+<p><strong>1. VEO: ¿QUÉ ESTÁ PASANDO?</strong></p>
 <p>¿Qué observáis en la imagen?</p>
 <p>¿Qué ha ocurrido con el hábitat de los animales?</p>
-<p>¿Qué elementos naturales han desaparecido o están deteriorados?<br /><strong></strong></p>
-<p><strong>2. PIENSO: ¿Cómo afecta a los animales?</strong></p>
+<p>¿Qué elementos naturales han desaparecido o están deteriorados?</p>
+<p><br /><strong>2. PIENSO: ¿Cómo afecta a los animales?</strong></p>
 <p>¿Qué puede ocurrirles a los animales si desaparecen los árboles, el agua o el alimento?</p>
 <p>¿Cómo se sentiría un animal que pierde su hogar?</p>
-<p>¿Creéis que todos los animales pueden adaptarse a estos cambios?<br /><strong></strong></p>
-<p><strong>3. ME PREGUNTO: ¿Qué podemos hacer?</strong></p>
+<p>¿Creéis que todos los animales pueden adaptarse a estos cambios?</p>
+<p><br /><strong>3. ME PREGUNTO: ¿Qué podemos hacer?</strong></p>
 <p>¿Por qué están desapareciendo algunos hábitats?</p>
 <p>¿Quién puede ayudar a proteger a estos animales?</p>
 <p>¿Qué podríamos hacer nosotros desde nuestro colegio?</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1793610005247-a3fiku5se","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. VEO: ¿QUÉ ESTÁ PASANDO?</strong></p>\n<p>¿Qué observáis en la imagen?</p>\n<p>¿Qué ha ocurrido con el hábitat de los animales?</p>\n<p>¿Qué elementos naturales han desaparecido o están deteriorados?<br /><strong></strong></p>\n<p><strong>2. PIENSO: ¿Cómo afecta a los animales?</strong></p>\n<p>¿Qué puede ocurrirles a los animales si desaparecen los árboles, el agua o el alimento?</p>\n<p>¿Cómo se sentiría un animal que pierde su hogar?</p>\n<p>¿Creéis que todos los animales pueden adaptarse a estos cambios?<br /><strong></strong></p>\n<p><strong>3. ME PREGUNTO: ¿Qué podemos hacer?</strong></p>\n<p>¿Por qué están desapareciendo algunos hábitats?</p>\n<p>¿Quién puede ayudar a proteger a estos animales?</p>\n<p>¿Qué podríamos hacer nosotros desde nuestro colegio?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795336169429-uko6467x6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>  <img src=\"{{context_path}}/content/resources/mceclip0.png\" /></strong></p>\n<p><strong>1. VEO: ¿QUÉ ESTÁ PASANDO?</strong></p>\n<p>¿Qué observáis en la imagen?</p>\n<p>¿Qué ha ocurrido con el hábitat de los animales?</p>\n<p>¿Qué elementos naturales han desaparecido o están deteriorados?</p>\n<p><br /><strong>2. PIENSO: ¿Cómo afecta a los animales?</strong></p>\n<p>¿Qué puede ocurrirles a los animales si desaparecen los árboles, el agua o el alimento?</p>\n<p>¿Cómo se sentiría un animal que pierde su hogar?</p>\n<p>¿Creéis que todos los animales pueden adaptarse a estos cambios?</p>\n<p><br /><strong>3. ME PREGUNTO: ¿Qué podemos hacer?</strong></p>\n<p>¿Por qué están desapareciendo algunos hábitats?</p>\n<p>¿Quién puede ayudar a proteger a estos animales?</p>\n<p>¿Qué podríamos hacer nosotros desde nuestro colegio?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -494,12 +434,13 @@
           <odeBlockId>block-mvse2vl5-rnrxlfkox</odeBlockId>
           <odeIdeviceId>idevice-1793208564327-6ccb9k7jd</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">¡Investigad vuestro animal salvaje!</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Exploradores, ha llegado el momento de investigar! Cada equipo tendrá que descubrir cómo vive su animal y qué amenazas pueden poner en peligro su supervivencia.</p>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header exe-udlContent-character-1"><h2 style="display:none;">¡Investigad vuestro animal salvaje!</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/Pasaporte de Investigación Salvaje.png" width="644" height="429" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>¡Exploradores, ha llegado el momento de investigar! Cada equipo tendrá que descubrir cómo vive su animal y qué amenazas pueden poner en peligro su supervivencia.</p>
 <p>📝 <strong>¿Qué tenéis que hacer?</strong><br><strong>1. Descubrid vuestro animal.</strong><br>Investigad diferentes animales salvajes que se encuentren en peligro y elegid uno por cada dos participantes (uno por pareja).</p>
 <p><strong>2. Buscad las respuestas.</strong><br>Investigad en equipo y responded a estas preguntas:</p>
 <p>🏡 ¿Dónde vive? ¿Cómo es su hábitat?<br>🍽️ ¿De qué se alimenta?<br>🐾 ¿Qué características le ayudan a sobrevivir?<br>⚠️ ¿Qué amenazas ponen en peligro a este animal o a su hábitat?<br>🌱 ¿Qué podemos hacer para protegerlo?</p>
 <p><strong>3. Comprobad la información.</strong><br>Utilizad las fuentes que os ha facilitado el profesor. No copiéis todo lo que encontréis: seleccionad los datos más importantes y explicadlos con vuestras propias palabras.</p>
-<p>🎯<strong> ¿Qué debéis conseguir? <a href="{{context_path}}/content/resources/Pasaporte de Investigación Salvaje.png" title="Pasaporte de Investigación Salvaje.png" target="_blank" rel="noopener">ENLACE A LA FICHA</a></strong><br>Al terminar, vuestro equipo tendrá diferentes fichas de investigación con información sobre diferentes animales, su hábitat, su alimentación, sus adaptaciones y las amenazas que afronta.</p>
+<p>🎯<strong> ¿Qué debéis conseguir? <a href="https://docs.google.com/document/d/1nzLyEMw97b11ExX9epDeuNthOIuU-YQ90d2u-BOe0Ds/copy" title="Pasaporte de Investigación Salvaje.png" target="_blank" rel="noopener">ENLACE A LA FICHA</a></strong><br>Al terminar, vuestro equipo tendrá diferentes fichas de investigación con información sobre diferentes animales, su hábitat, su alimentación, sus adaptaciones y las amenazas que afronta.</p>
 <p>Esta información os servirá para superar los siguientes desafíos de la misión.</p>
 <p>⏱️ Tiempo disponible: 15 minutos.</p>
 <p>🤝 ¡Recordad! Un buen equipo no es el que termina antes, sino el que investiga, comparte sus ideas y aprende unido.</p>
@@ -763,6 +704,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1794864880812-9jfh555zv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Pequeño grupo","textTextarea":"<p>¡Habéis superado los retos matemáticos de la reserva! Ahora os toca diseñar un nuevo problema relacionado con la biodiversidad para poner a prueba a los demás equipos.</p>\n<p><strong>¿Qué tenéis que hacer?</strong></p>\n<p>Elegid una temática relacionada con la reserva: animales, alimentación, agua, hábitats, distancias, poblaciones…<br />Inventad un problema matemático. Debe incluir datos numéricos y una pregunta que haya que resolver.<br />Comprobad que el problema tiene solución y resolvedlo en equipo.<br />Utilizad Canva para crear una diapositiva que incluya:</p>\n<p>- Título del problema.<br />- Imagen o ilustración relacionada con la temática.<br />- Enunciado y datos necesarios.<br />- Pregunta que deben resolver los demás equipos.<br />- Preparad una segunda diapositiva con las operaciones y la solución, para mostrarla después de que los compañeros hayan intentado resolverlo.<br />- Producto final: una pequeña presentación digital de dos diapositivas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -802,13 +755,13 @@
           <odeIdeviceId>idevice-mvseaq8v-vje541qmy</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Agrupamiento</strong></p>
-<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades.</p>
+<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades: coordinación, diseño del problema, resolución matemática y elaboración de la presentación digital.</p>
 <p><strong>Metodología activa</strong></p>
-<p>Aprendizaje basado en retos y aprendizaje cooperativo, mediante una investigación guiada.</p>
-<p><strong>Competencia específica</strong></p>
-<p>Conocimiento del Medio Natural, Social y Cultural: búsqueda y selección de información mediante recursos digitales, utilizando criterios de fiabilidad y desarrollando estrategias de investigación.</p>
+<p>Aprendizaje basado en retos y aprendizaje cooperativo. A partir de una situación problemática contextualizada en la biodiversidad, los equipos resolverán retos matemáticos y asumirán el papel de creadores de nuevos problemas. Diseñarán una presentación digital para compartir sus propuestas y plantear nuevos desafíos al resto de los equipos.</p>
+<p><strong>Competencias específicas</strong></p>
+<p><strong>- Matemáticas</strong>: interpretación y resolución de problemas de la vida cotidiana, razonamiento matemático, representación de situaciones y formulación de nuevos problemas.<br><strong>- Conocimiento del Medio Natural, Social y Cultural:</strong> utilización de conocimientos sobre los animales, sus hábitats y la biodiversidad para contextualizar situaciones problemáticas.<br><strong>- Competencia digital: </strong>creación de contenidos digitales mediante herramientas de presentación, utilizando recursos visuales y comunicando información de manera adecuada.<br><strong>- Competencia en comunicación lingüística:</strong> comprensión y elaboración de enunciados matemáticos, así como exposición oral de los problemas diseñados.<br><strong></strong></p>
 <p><strong>Recursos</strong></p>
-<p>Chromebooks o tablets, enlaces seleccionados, imágenes y ficha digital de investigación.</p></div></div></section></div>]]></htmlView>
+<p>Chromebooks o tabletas, Canva, conexión a Internet, ficha de retos matemáticos, calculadora y recursos visuales relacionados con la biodiversidad.</p></div></div></section></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -993,7 +946,7 @@
     <odePagStructure>
       <odePageId>page-mvr15bek-6d491au8z</odePageId>
       <odeBlockId>block-mvsebo6c-fklstclek</odeBlockId>
-      <blockName>¡Programamos el rescate!</blockName>
+      <blockName>PAUTAS METODOLÓGICAS</blockName>
       <iconName>info</iconName>
       <odePagStructureOrder>2</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1025,13 +978,13 @@
           <odeIdeviceId>idevice-mvsebf68-jvyp2ffso</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Agrupamiento</strong></p>
-<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades.</p>
+<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades: coordinación, programación, diseño del tapete y supervisión/documentación de los resultados. Se fomentará la colaboración y la ayuda mutua ante las dificultades.</p>
 <p><strong>Metodología activa</strong></p>
-<p>Aprendizaje basado en retos y aprendizaje cooperativo, mediante una investigación guiada.</p>
-<p><strong>Competencia específica</strong></p>
-<p>Conocimiento del Medio Natural, Social y Cultural: búsqueda y selección de información mediante recursos digitales, utilizando criterios de fiabilidad y desarrollando estrategias de investigación.</p>
+<p>Aprendizaje basado en retos, aprendizaje cooperativo y enfoque STEAM. El alumnado desarrollará el pensamiento computacional mediante la programación por bloques en Code.org y la codificación tangible con el robot MatataBot. A través del diseño de un tapete temático y la resolución de misiones, pondrá en práctica la secuenciación de instrucciones, la orientación espacial, la anticipación de movimientos, la detección de errores y la depuración de programas.</p>
+<p><strong>Competencias específicas</strong></p>
+<p><strong>- Conocimiento del Medio Natural, Social y Cultural: </strong>identificación de características de los animales y sus hábitats, relacionando el uso de la tecnología con la protección de la biodiversidad.<br><strong>- Matemáticas</strong>: interpretación de recorridos, orientación espacial, reconocimiento de direcciones y secuenciación lógica de movimientos.<br><strong>- Competencia digital: </strong>creación de contenidos digitales mediante entornos de programación, utilización de herramientas tecnológicas y desarrollo del pensamiento computacional.<br><strong>- Educación Artística: </strong>diseño creativo de un tapete temático mediante la representación gráfica de animales y elementos de distintos ecosistemas.<br><strong>- Competencia personal, social y de aprender a aprender:</strong> cooperación, perseverancia, resolución de dificultades y valoración del error como oportunidad de aprendizaje.<br><strong></strong></p>
 <p><strong>Recursos</strong></p>
-<p>Chromebooks o tablets, enlaces seleccionados, imágenes y ficha digital de investigación.</p></div></div></section></div>]]></htmlView>
+<p>Chromebooks o tabletas, plataforma Code.org (Sprite Lab), robot MatataBot y su controlador, tapetes de exploración compatibles, papel cuadriculado, cartulinas, lápices, rotuladores y materiales para diseñar el escenario.</p></div></div></section></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -1267,7 +1220,7 @@
     <odePagStructure>
       <odePageId>page-mvr15k96-7dxdf9l6l</odePageId>
       <odeBlockId>block-mvsec6wf-txhoyeugr</odeBlockId>
-      <blockName>La voz de la fauna</blockName>
+      <blockName>PAUTAS METODOLÓGICAS</blockName>
       <iconName>info</iconName>
       <odePagStructureOrder>3</odePagStructureOrder>
       <odePagStructureProperties>
@@ -1299,13 +1252,13 @@
           <odeIdeviceId>idevice-mvsebyra-9bpms5is3</odeIdeviceId>
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Agrupamiento</strong></p>
-<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades.</p>
+<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades: coordinación, diseño gráfico, redacción del mensaje y grabación/edición del audio. Se fomentará la participación de todos los miembros del equipo y la toma de decisiones compartida.</p>
 <p><strong>Metodología activa</strong></p>
-<p>Aprendizaje basado en retos y aprendizaje cooperativo, mediante una investigación guiada.</p>
-<p><strong>Competencia específica</strong></p>
-<p>Conocimiento del Medio Natural, Social y Cultural: búsqueda y selección de información mediante recursos digitales, utilizando criterios de fiabilidad y desarrollando estrategias de investigación.</p>
+<p>Aprendizaje basado en retos, aprendizaje cooperativo y aprendizaje basado en proyectos. El alumnado asumirá el papel de una agencia de comunicación ambiental y diseñará una campaña de sensibilización sobre la protección de los animales salvajes. Mediante la creación de un cartel digital y la elaboración de un mensaje radiofónico, desarrollará su creatividad, capacidad comunicativa y compromiso con la conservación de la biodiversidad.</p>
+<p><strong>Competencias específicas</strong></p>
+<p><strong>- Conocimiento del Medio Natural, Social y Cultural: </strong>reconocimiento de las amenazas que afectan a los animales salvajes y propuesta de acciones para proteger la biodiversidad.<br><strong>- Educación Artística: </strong>creación de producciones visuales y audiovisuales mediante la utilización de diferentes recursos y herramientas digitales.<br><strong>- Competencia digital: </strong>creación, edición y comunicación de contenidos digitales utilizando herramientas como Canva y recursos de grabación de audio.<br><strong>- Competencia en comunicación lingüística: </strong>elaboración de mensajes escritos y orales adaptados a una finalidad comunicativa, organización de ideas y expresión clara de propuestas.<br>Competencia personal, social y de aprender a aprender: cooperación, responsabilidad compartida, creatividad y participación activa en la consecución de un objetivo común.<br><strong></strong></p>
 <p><strong>Recursos</strong></p>
-<p>Chromebooks o tablets, enlaces seleccionados, imágenes y ficha digital de investigación.</p></div></div></section></div>]]></htmlView>
+<p>Chromebooks o tabletas, Canva, plantillas de diseño, imágenes de animales salvajes, micrófonos o dispositivos de grabación, herramienta de grabación y edición de audio y carpeta compartida para guardar las producciones.</p></div></div></section></div>]]></htmlView>
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
@@ -1468,6 +1421,79 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1794867383176-cbcbwvvjx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ha llegado el momento de demostrar cuánto sabéis sobre el mundo animal! Superad el rosco de la biodiversidad y cread vuestro propio juego de preguntas para poner a prueba a los demás equipos.</p>\n<p><strong>1. Superamos el rosco</strong><br />Leed las definiciones y pistas del rosco.<br />Descubrid las palabras relacionadas con los animales, sus hábitats, características y conservación.<br />Completad el mayor número de letras posible.<br />Si no conocéis una respuesta, podéis pasar y regresar a ella al final.<br /><strong>2. Creamos nuestro propio rosco</strong><br />Ahora os toca diseñar un nuevo rosco sobre animales salvajes.</p>\n<p>En equipo:</p>\n<p>Elegid una temática: animales en peligro de extinción, hábitats, alimentación, curiosidades o biodiversidad.<br />Preparad UN NUEVO ROSCO CON EL MÁXIMO DE DEFINICIONES POSIBLES.<br />Cada pregunta debe estar relacionada con una letra del abecedario.<br />Escribid las pistas y sus soluciones.<br />Utilizad una herramienta digital para crear vuestro rosco.<br />Herramienta digital recomendada: Canva, mediante una plantilla de rosco o una presentación interactiva. También podéis utilizar Genially si queréis convertirlo en un juego.</p>\n<p><strong>3. ¡Desafiamos a los demás equipos!</strong><br />Cada equipo presentará su rosco al resto de la clase. Los compañeros tendrán que resolver las preguntas y descubrir las palabras escondidas.</p>\n<p>Producto final: un rosco digital y sus correspondientes respuestas.</p>\n<p>Recursos: rosco inicial, Chromebook o tableta, Canva o Genially.</p>\n<p>Tiempo estimado: 18-20 minutos.</p>\n<p>Evidencia: enlace o archivo del rosco digital, que se subirá a la carpeta de evidencias de la zona EXPLORA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mw6rat8u-j7x9qxydk</odePageId>
+      <odeBlockId>block-mwrlrbvt-bcl921gyc</odeBlockId>
+      <blockName>PAUTAS METODOLÓGICAS</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mw6rat8u-j7x9qxydk</odePageId>
+          <odeBlockId>block-mwrlrbvt-bcl921gyc</odeBlockId>
+          <odeIdeviceId>idevice-mwrlrbvu-tx0ooiwnp</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Agrupamiento</strong></p>
+<p>Pequeños grupos cooperativos de 4 alumnos, con reparto de responsabilidades: coordinación, elaboración de definiciones, diseño digital y presentación del rosco. Se fomentará el diálogo, la participación y la toma de decisiones conjunta.</p>
+<p><strong>Metodología activa</strong></p>
+<p>Aprendizaje basado en retos y aprendizaje cooperativo mediante la gamificación. A través del juego de Pasapalabra, los equipos pondrán a prueba sus conocimientos sobre biodiversidad, animales, hábitats y conservación. Posteriormente, asumirán el papel de creadores de contenidos educativos, elaborando su propio rosco digital para compartirlo y plantear nuevos desafíos al resto de los equipos.</p>
+<p><strong>Competencias específicas</strong></p>
+<p><strong>Conocimiento del Medio Natural, Social y Cultural:</strong> reconocimiento de las características de los animales, sus hábitats, formas de vida y amenazas para la biodiversidad.<br><strong>Lengua Castellana y Literatura: </strong>comprensión de definiciones, ampliación del vocabulario, formulación de preguntas y elaboración de pistas claras y precisas.<br><strong>Competencia digital: </strong>creación de contenidos digitales mediante herramientas como Canva o Genially, utilizando recursos visuales y formatos interactivos.<br><strong>Competencia personal, social y de aprender a aprender: </strong>participación activa, cooperación, escucha, respeto de las aportaciones de los compañeros y reflexión sobre los propios conocimientos.<br><strong></strong></p>
+<p><strong>Recursos</strong></p>
+<p>Chromebooks o tabletas, rosco digital de Pasapalabra, Canva o Genially, conexión a Internet y recursos digitales de consulta sobre animales salvajes, biodiversidad y conservación.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1546,7 +1572,9 @@
           <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>En esta sección, compartiremos con el resto de los grupos las evidencias de haber superado los retos planteados en las diferentes zonas del Aula del Futuro.</p>
 <p>Cada equipo deberá subir los productos y archivos elaborados durante su recorrido por las distintas estaciones, utilizando los enlaces de las carpetas compartidas de Google Drive.</p>
-<p>¿Dónde entregamos nuestras evidencias?<br title=""><a href="https://drive.google.com/drive/folders/1SBHVLswAUpV03IciN4URg49DfoGoMcZ7?usp=sharing">ZONA INVESTIGA</a>: subiremos el pasaporte de investigación de nuestro animal.<br><a href="https://drive.google.com/drive/folders/1HNi2MGyYCIf-TF0Dzdvwr5vpbKvyLzeM?usp=sharing">ZONA INTERACTÚA</a>: entregaremos las actividades y los retos matemáticos resueltos.<br><a href="https://drive.google.com/drive/folders/1dsfvCFJumt5zw-Tw6PH5otAWpzis0weD?usp=sharing">ZONA DESARROLLA</a>: compartiremos las evidencias de los retos de programación y robótica.<br><a href="https://drive.google.com/drive/folders/1WKvuomoGS1o-6cj7TJ7R8DPfpQYO96w9?usp=sharing">ZONA CREA</a>: subiremos nuestro cartel digital y la grabación del mensaje de radio.<br>¡Importante! ¿Cómo nombramos los archivos?<br>Para que podamos identificar fácilmente el trabajo de cada equipo, todos los archivos deberán nombrarse utilizando el nombre del animal elegido.</p>
+<p>¿Dónde entregamos nuestras evidencias?<br title=""><a href="https://drive.google.com/drive/folders/1SBHVLswAUpV03IciN4URg49DfoGoMcZ7?usp=sharing" target="_blank" title="" rel="noopener">ZONA INVESTIGA</a>: subiremos el pasaporte de investigación de nuestro animal.<br><a href="https://drive.google.com/drive/folders/1HNi2MGyYCIf-TF0Dzdvwr5vpbKvyLzeM?usp=sharing" target="_blank" title="" rel="noopener">ZONA INTERACTÚA</a>: entregaremos las actividades y los retos matemáticos resueltos.<br><a href="https://drive.google.com/drive/folders/1dsfvCFJumt5zw-Tw6PH5otAWpzis0weD?usp=sharing" target="_blank" title="" rel="noopener">ZONA DESARROLLA</a>: compartiremos las evidencias de los retos de programación y robótica.<br><a href="https://drive.google.com/drive/folders/1WKvuomoGS1o-6cj7TJ7R8DPfpQYO96w9?usp=sharing" target="_blank" title="" rel="noopener">ZONA CREA</a>: subiremos nuestro cartel digital y la grabación del mensaje de radio.</p>
+<p><a href="https://drive.google.com/drive/folders/1KMVdHqkFk-H88BaEwXlpAraki-Wv1p_M?usp=sharing" target="_blank" title="" rel="noopener">ZONA EXPLORA: </a>subiremos nuestro cartel digital y la grabación del mensaje de radio.<br></p>
+<p><strong>¡Importante! ¿Cómo nombramos los archivos?</strong><br>Para que podamos identificar fácilmente el trabajo de cada equipo, todos los archivos deberán nombrarse utilizando el nombre del animal elegido.</p>
 <p>Por ejemplo:</p>
 <p>Elefante_Pasaporte.pdf<br>Tigre_Retos matemáticos.pdf<br>Tortuga_Robotica.mp4<br>Lince_Cartel.png<br>Lince_Radio.mp3<br>Recordad: antes de abandonar esta zona, comprobad que todas las evidencias están subidas correctamente y que los archivos están identificados con el nombre de vuestro animal.</p>
 <p>¡Cada reto superado nos acerca a nuestra misión de proteger la biodiversidad!</p></div></div></section></div>]]></htmlView>
